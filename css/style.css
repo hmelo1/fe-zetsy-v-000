@@ -23,6 +23,7 @@ h1{
 	display: block;
 	font-size: 5em;
 	margin: 0 0 5px;
+	font-family: 'Baskerville', serif;
 	border-bottom: 1px solid #ccc;
 }
 header a{
