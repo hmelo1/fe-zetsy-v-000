@@ -25,3 +25,7 @@ h1{
 	border-bottom: 1px solid #ccc;
 	color: rgb(111,127,122);
 }
+
+#image img{
+	border: 10px rgb(111,127,122);
+}
