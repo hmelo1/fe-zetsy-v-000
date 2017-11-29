@@ -27,6 +27,7 @@ h1{
 }
 header a{
 	color: rgb(152,173,166);
+	text-decoration: none;
 }
 #image img{
 	border: 5px rgb(111,127,122) solid;
