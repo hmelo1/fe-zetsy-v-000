@@ -20,6 +20,7 @@ body {
 /* Write all remaining styles here */
 
 h1{
+	display: block;
 	font-size: 5em;
 	margin: 0;
 	border-bottom: 1px solid #ccc;
