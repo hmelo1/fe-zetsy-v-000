@@ -39,7 +39,10 @@ h2{
 	color: rgb(152,173,166);
 	font-size: 2em;
 }
-#press img {
+#press{
+	margin-bottom:20px;
+}
+#press img{
     border: 5px #ccc solid;
     padding: 1px;
 }
