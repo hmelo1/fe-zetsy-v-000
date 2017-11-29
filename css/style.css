@@ -29,7 +29,7 @@ header a{
 	color: rgb(152,173,166);
 	text-decoration: none;
 }
-header h1:hover{
+h1:hover{
 	color: rgb(111,127,122);
 }
 #image img{
