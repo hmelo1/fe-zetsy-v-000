@@ -30,7 +30,7 @@ header a{
 	text-decoration: none;
 }
 h1:hover{
-	color: rgb(111,127,122);
+	background: rgb(111,127,122);
 }
 #image img{
 	border: 5px rgb(152,173,166) solid;
